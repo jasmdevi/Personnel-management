@@ -1,7 +1,4 @@
-/*Jasmine Narayan
- * My partner for this assignment is Christian Costa
- * Final Project
- */
+//This application was developed by Christian Costa and Jasmine Narayan
 
 import java.util.Scanner;
 import java.io.*;
