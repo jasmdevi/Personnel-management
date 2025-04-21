@@ -1,1 +1,1 @@
-# Personnel-management
+The University Personnel Management Program is a Java-based application designed to manage university personnel information efficiently. The program handles three object types—Staff, Student, and Faculty—storing and managing their unique attributes such as names, IDs, GPAs, titles, and departments. Built with modular and object-oriented principles, the system provides an interactive menu-driven interface for performing various operations like data entry, deletion, and reporting.
